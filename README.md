@@ -92,7 +92,8 @@ aizawa-attractor/
 ## Contributing
 Feel free to open issues or submit pull requests for improvements, bug fixes, or new features (e.g., alternative attractors, additional visual effects, etc.).
 
-This project is a fork of the original repository by [].
+This project is a fork of the original repository by [Ramakrushna Mohapatra Ramakm](https://github.com/Ramakm).
+
 
 
 ## License
