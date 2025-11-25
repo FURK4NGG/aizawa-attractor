@@ -64,11 +64,12 @@ dy/dt = d * x + (z - b) * y
 dz/dt = c + a * z - (z³ / 3) - x² + f * z * x³
 ```
 Classic parameters:
-- `a = 0.95`
-- `b = 0.7`
+- `a = 0.968`
+- `b = 0.722`
 - `c = 0.6`
-- `d = 3.5`
-- `f = 0.1`
+- `d = 3.22`
+- `e = 0.312`
+- `f = 0.152`
 
 Initial point: `(x0, y0, z0) = (0.1, 0.0, 0.0)`
 Integration uses a fixed time step (`dt ≈ 0.01`) to generate tens of thousands of points.
