@@ -27,7 +27,7 @@ The project is built with modern JavaScript (ES modules) and uses **Vite** as th
 ## Installation
 ```bash
 # Clone the repository (if you haven't already)
-git clone https://github.com/Ramakm/aizawa-attractor.git
+git clone https://github.com/FURK4NGG/aizawa-attractor.git
 cd aizawa-attractor
 
 # Install dependencies
