@@ -22,6 +22,7 @@ The project is built with modern JavaScript (ES modules) and uses **Vite** as th
 - **Performance‑focused**: Uses a single `BufferGeometry` and reuses materials to avoid per‑frame allocations.
 - **Responsive UI**: Sliders, randomize/reset buttons, and toggles for trail/full‑curve modes.
 - **Adjustable animation speed**.
+- **Mobile Friendly UI.**
 
 ## Installation
 ```bash
