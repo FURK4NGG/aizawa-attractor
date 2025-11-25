@@ -49,9 +49,9 @@ The built files are placed in the `dist/` directory and can be served by any sta
 
 ## Usage
 - **OrbitControls**: Left‑drag to rotate, scroll to zoom, right‑drag to pan.
-- **Parameter sliders**: Adjust `a, b, c, d, f` to explore different chaotic shapes.
+- **Parameter sliders**: Adjust `a, b, c, d, e, f` to explore different chaotic shapes.
 - **Randomize**: Click the *Randomize Parameters* button for nearby values.
-- **Reset**: Restores the classic parameter set (`a=0.95, b=0.7, c=0.6, d=3.5, f=0.1`).
+- **Reset**: Restores the classic parameter set (`a=0.968, b=0.722, c=0.6, d=3.22, e=0.312, f=0.152`).
 - **Trail / Full Curve**: Toggle between showing only the moving point with a short trail or the entire attractor curve.
 - **Play / Pause**: Control the animation of the traveling sphere.
 - **Speed**: Choose *slow*, *normal*, or *fast* animation speed.
