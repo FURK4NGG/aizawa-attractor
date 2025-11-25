@@ -10,7 +10,7 @@ This repository contains an interactive 3D web visualization of the **Aizawa att
 - Color gradient (deep blue → cyan → magenta) that indicates the flow direction.
 - Bloom post‑processing for a glowing, energy‑field look.
 - OrbitControls for rotation, zoom, and pan.
-- Live UI controls (via `lil‑gui`) to adjust the attractor parameters `a, b, c, d, f` in real time.
+- Live UI controls (via `lil‑gui`) to adjust the attractor parameters `a, b, c, d, e, f` in real time.
 - Animation of a glowing sphere traveling along the trajectory, with a fading trail.
 - Simple explanatory side panel describing the attractor and its mathematics.
 
@@ -92,11 +92,9 @@ aizawa-attractor/
 ## Contributing
 Feel free to open issues or submit pull requests for improvements, bug fixes, or new features (e.g., alternative attractors, additional visual effects, etc.).
 
+This project is a fork of the original repository by [].
+
+
 ## License
 This project is licensed under the ISC license.
 
-## Check out my social profiles here:
-[Instagram](https://www.instagram.com/techwith.ram/)
-[X](https://x.com/techwith_ram)
-[LinkedIn](https://www.linkedin.com/in/ramakrushnamohapatra/)
-[GitHub](https://github.com/Ramakm)
