@@ -1,6 +1,6 @@
 # Aizawa Attractor Visualization
 
-<img width="1413" height="636" alt="image" src="https://github.com/user-attachments/assets/2df6ba75-5f9d-4f33-9c21-cfe55cad7261" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/17eb257e-11d3-48b7-b3ea-1576e5e0fcab" />
 
 
 ## Overview
