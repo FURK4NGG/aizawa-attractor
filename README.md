@@ -1,6 +1,6 @@
 # Aizawa Attractor Visualization
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/FURK4NGG/aizawa-attractor/blob/main/{}/aizawa-attractor.png"/>
+![Image](https://github.com/FURK4NGG/aizawa-attractor/blob/main/{}/aizawa-attractor.png)
 
 ## Overview
 This repository contains an interactive 3D web visualization of the **Aizawa attractor**, a classic chaotic system from chaos theory. The attractor is rendered with **Three.js** and features:
